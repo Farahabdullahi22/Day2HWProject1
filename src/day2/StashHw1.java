@@ -2,10 +2,9 @@ package day2;
 
 public class StashHw1 {
 
-	public static void main(String[] args) {
+	public void getFinalScore() {
 		
-		System.out.println("Stash Practice ");
-		
+		System.out.println("pushing code");
 	}
 
 }
